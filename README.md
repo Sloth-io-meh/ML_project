@@ -206,6 +206,5 @@ This project is available for educational and research purposes.
 - MLflow for making experiment tracking seamless
 
 ---
-
-**Author**: Machine Learning Project  
 **Last Updated**: February 2026
+
