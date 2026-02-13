@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Video Game Sales Analysis & Machine Learning Project
 
 A comprehensive machine learning pipeline for analyzing video game sales data using clustering, classification, and neural networks. The project includes dimensionality reduction, automated clustering, traditional ML classifiers, and PyTorch-based deep learning models with full MLflow experiment tracking.
