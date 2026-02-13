@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/ULTRAPC/Desktop/notebook ML/ipnyb/mlruns/761854136110779325/models/m-34cd87613f3641918f3b8b18a4259fa4/artifacts
+creation_timestamp: 1769968870798
+experiment_id: '761854136110779325'
+last_updated_timestamp: 1769968874576
+model_id: m-34cd87613f3641918f3b8b18a4259fa4
+model_type: null
+name: SGD_model
+source_run_id: 3ef0216d23af4cb4813af9e10357ac5a
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/ULTRAPC/Desktop/notebook ML/ipnyb/mlruns/761854136110779325/models/m-d3022859588d4b43a962ed65d1a4a8c2/artifacts
+creation_timestamp: 1770984211877
+experiment_id: '761854136110779325'
+last_updated_timestamp: 1770984219672
+model_id: m-d3022859588d4b43a962ed65d1a4a8c2
+model_type: null
+name: RandomForest_model
+source_run_id: 3bd6722da12e4aab8c317295844736a7
+status: 2
+status_message: null

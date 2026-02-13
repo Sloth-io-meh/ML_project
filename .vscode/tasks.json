@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "latexmk: build report",
+			"type": "shell",
+			"command": "C:\\Program Files\\MiKTeX 2.9\\miktex\\bin\\x64\\pdflatex.exe",
+			"args": [
+				"-synctex=1",
+				"-interaction=nonstopmode",
+				"-file-line-error",
+				"report_project_fr.tex"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}

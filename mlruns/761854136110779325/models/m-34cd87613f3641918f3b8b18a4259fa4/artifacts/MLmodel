@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/ULTRAPC/Desktop/notebook ML/ipnyb/mlruns/761854136110779325/models/m-34cd87613f3641918f3b8b18a4259fa4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+mlflow_version: 3.3.2
+model_id: m-34cd87613f3641918f3b8b18a4259fa4
+model_size_bytes: 1949
+model_uuid: m-34cd87613f3641918f3b8b18a4259fa4
+prompts: null
+run_id: 3ef0216d23af4cb4813af9e10357ac5a
+utc_time_created: '2026-02-01 18:01:10.863300'

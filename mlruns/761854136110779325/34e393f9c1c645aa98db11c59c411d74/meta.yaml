@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ULTRAPC/Desktop/notebook ML/ipnyb/mlruns/761854136110779325/34e393f9c1c645aa98db11c59c411d74/artifacts
+end_time: 1769969301205
+entry_point_name: ''
+experiment_id: '761854136110779325'
+lifecycle_stage: active
+run_id: 34e393f9c1c645aa98db11c59c411d74
+run_name: PyTorch_Neural_Networks
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769969301018
+status: 3
+tags: []
+user_id: ULTRAPC
